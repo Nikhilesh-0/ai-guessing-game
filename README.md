@@ -37,7 +37,7 @@ It also handles edge cases where users try to trick the game 😉
 
 ## ▶️ Try It Online
 
-You can play it without setup on [Replit](#) (https://replit.com/@Nikhilesh0/ai-guessing-game#main.py)
+You can play it without setup on [Replit](https://replit.com/@Nikhilesh0/ai-guessing-game#main.py)
 
 ---
 
