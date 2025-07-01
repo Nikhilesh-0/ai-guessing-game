@@ -44,7 +44,8 @@ You can play it without setup on [Replit](#) (link coming soon)
 ## 🧠 Author
 
 **Nikhilesh Kumar**  
-B.Tech CSE | Aspiring AI/ML Engineer | [LinkedIn](www.linkedin.com/in/nikhilesh-chugh-065b35213)
+B.Tech CSE | Aspiring AI/ML Engineer | [LinkedIn – Nikhilesh Kumar](https://www.linkedin.com/in/nikhilesh-chugh-065b35213)
+
 
 ---
 
